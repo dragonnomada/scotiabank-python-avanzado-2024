@@ -1,6 +1,14 @@
-# scotiabank-python-avanzado-2024
+# Curso de Python Avanzado
 
-Curso de Python Avanzado para Scotiabank
+<img src="https://amei.mx/wp-content/uploads/2016/08/Scotiabank-logo.jpg" alt="Scotiabank Logo" height="60">
+<img src="https://www.belatrix.com/wp-content/uploads/2023/08/belatrix-logosweb-1.png" alt="Belatrix Logo" height="60">
+
+
+**[Scotiabank](https://www.scotiabank.com.mx)** | **[Belatrix](https://www.belatrix.com)**
+
+Instructor: [Alan Badillo Salas](alan@nomadacode.com)
+
+---
 
 ## Notas del módulo 01
 
