@@ -26,3 +26,7 @@ Instructor: [Alan Badillo Salas](alan@nomadacode.com)
 
 [https://colab.research.google.com/drive/1lpinuSFD8e651VXMFki6I3yEgZ5F4eQg?usp=sharing](https://colab.research.google.com/drive/1lpinuSFD8e651VXMFki6I3yEgZ5F4eQg?usp=sharing)
 
+## Notas del módulo 05
+
+[https://colab.research.google.com/drive/13KQ0oJ7AC-XoUWmV_GwdhihfO64ecQYI?usp=sharing](https://colab.research.google.com/drive/13KQ0oJ7AC-XoUWmV_GwdhihfO64ecQYI?usp=sharing)
+
